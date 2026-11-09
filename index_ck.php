@@ -1,4 +1,4 @@
-<!-- Student: Nguyen Van Thien Tam-25It176-->
+<!-- Student: Nguyen Van Thien Tam-25IT176-->
 <?php
 // if user not type input
 $noidung1 = "";
@@ -55,7 +55,7 @@ if (isset($_POST["ok"])) {
     <h3>Dữ liệu nhận được sau khi POST:</h3>
     <div>
         <strong>Nội dung 1:</strong> 
-        <div><?php echo $noidung1; // In nguyên bản mã HTML do CKEditor gửi lên ?></div>
+        <div><?php echo $noidung1;?></div>
     </div>
     <br>
     <div>
