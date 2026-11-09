@@ -1,5 +1,6 @@
+<!-- Student: Nguyen Van Thien Tam-25It176-->
 <?php
-// Xử lý khi người dùng nhấn Ok rồi gửi data
+// if user not type input
 $noidung1 = "";
 $noidung2 = "";
 
